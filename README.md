@@ -6,6 +6,8 @@ To write a python program to perform binary classification.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
+## related Theory Concept:
+
 ## Algorithm
 1.
 2.
