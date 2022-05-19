@@ -1,5 +1,5 @@
 ### EX NO:02
-### DATE:
+### DATE: 04.04.2022
 # <p align="center">BINARY CLASSIFICATION <p/>
 ## AIM:
 
@@ -24,13 +24,12 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 4. Plot the row values in the graph.
 
 ## PROGRAM:
-
+```
+Program to implement binary classification.
+Developed by: J Vincent isaac jeyaraj
+Register Number: 212220230060
+```
 ```python
-
-#Program to implement binary classification.
-#Developed by: J Vincent isaac jeyaraj
-#Register Number: 212220230060
-
 from numpy import where
 from collections import Counter
 from sklearn.datasets import make_blobs
